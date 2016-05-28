@@ -18,7 +18,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := NovaLauncher
-LOCAL_SRC_FILES := NovaLauncher_4.2.2.apk
+LOCAL_SRC_FILES := NovaLauncher.apk
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .apk
 LOCAL_MODULE_CLASS := APPS
